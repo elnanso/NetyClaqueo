@@ -1,3 +1,9 @@
-oueoueoue
-aaaaaaaaa
-nico est passer par là
+[roles]
+
+Superadmin
+Admin
+Formateur
+Assistant
+Eleve
+
+[User]
